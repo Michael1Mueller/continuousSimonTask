@@ -1283,4 +1283,3 @@ trialnumber,blocknumber,success,reactiontime,currentcongruency,currentdirection,
 318,4,1,467,1,1,0,1,0,1
 319,4,1,283,1,0,0,1,1,0
 320,4,1,423,1,0,0,1,0,0
-trialnumber,blocknumber,success,reactiontime,currentcongruency,currentdirection,currentlocation,previouscongruency,previousdirection,previouslocation
