@@ -6,10 +6,6 @@
 
 # click
 
-112
-
-# click
-
 95368
 
 # click
