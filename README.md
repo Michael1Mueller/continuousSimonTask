@@ -14,3 +14,5 @@ latency_system.ipynb: Visualization of the comparison between latency systems
 reactiontime_analysis.ipynb: Tests and Visualization for reaction time analysis
 curvature_analysis.ipynb: Tests and Visualizatzions for curvature analysis
 angle_analysis.ipynb: Tests and Visualizations for angle analysis
+
+Some code was generated in parts with ChatGPT and Sonnet
